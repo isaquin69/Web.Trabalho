@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(6, 116, 138) ;
+}
+h1{
+    text-align: center;
+    padding: 20px;
+}
+h2{
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+    padding: 100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 
+    'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(176, 155, 155);
+}
+ h3{
+    text-align: center;
+ }
+a{
+    
+    font-size: 30px;
+}
